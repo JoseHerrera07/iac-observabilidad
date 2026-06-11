@@ -44,9 +44,8 @@ services:
     container_name: lab-node-exporter
     command:
       - "--path.rootfs=/host"
-    pid: host
     volumes:
-      - /:/host:ro,rslave
+      - /:/host:ro
     ports:
       - "9100:9100"
     restart: unless-stopped
