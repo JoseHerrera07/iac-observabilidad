@@ -1,4 +1,4 @@
-# Preguntas de Reflexión — Laboratorio de Observabilidad
+# Preguntas e Instrucciones — Laboratorio de Observabilidad
 **Alumno:** Herrera Angulo Jose Miguel - 000245501  
 **Curso:** Infraestructura como Código
 
